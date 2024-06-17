@@ -1,0 +1,14 @@
+C:\Users\55119\source\repos\SystemFolhaPagamentos\bin\Debug\net6.0\SystemFolhaPagamentos.exe
+C:\Users\55119\source\repos\SystemFolhaPagamentos\bin\Debug\net6.0\SystemFolhaPagamentos.deps.json
+C:\Users\55119\source\repos\SystemFolhaPagamentos\bin\Debug\net6.0\SystemFolhaPagamentos.runtimeconfig.json
+C:\Users\55119\source\repos\SystemFolhaPagamentos\bin\Debug\net6.0\SystemFolhaPagamentos.dll
+C:\Users\55119\source\repos\SystemFolhaPagamentos\bin\Debug\net6.0\SystemFolhaPagamentos.pdb
+C:\Users\55119\source\repos\SystemFolhaPagamentos\obj\Debug\net6.0\SystemFolhaPagamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\source\repos\SystemFolhaPagamentos\obj\Debug\net6.0\SystemFolhaPagamentos.AssemblyInfoInputs.cache
+C:\Users\55119\source\repos\SystemFolhaPagamentos\obj\Debug\net6.0\SystemFolhaPagamentos.AssemblyInfo.cs
+C:\Users\55119\source\repos\SystemFolhaPagamentos\obj\Debug\net6.0\SystemFolhaPagamentos.csproj.CoreCompileInputs.cache
+C:\Users\55119\source\repos\SystemFolhaPagamentos\obj\Debug\net6.0\SystemFolhaPagamentos.dll
+C:\Users\55119\source\repos\SystemFolhaPagamentos\obj\Debug\net6.0\refint\SystemFolhaPagamentos.dll
+C:\Users\55119\source\repos\SystemFolhaPagamentos\obj\Debug\net6.0\SystemFolhaPagamentos.pdb
+C:\Users\55119\source\repos\SystemFolhaPagamentos\obj\Debug\net6.0\SystemFolhaPagamentos.genruntimeconfig.cache
+C:\Users\55119\source\repos\SystemFolhaPagamentos\obj\Debug\net6.0\ref\SystemFolhaPagamentos.dll
